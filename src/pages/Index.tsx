@@ -152,7 +152,7 @@ const Index = () => {
             <div className="logo-container animate-fade-in">
               <div className="logo-image">
                 <img 
-                  src="assets/logo.jpg" 
+                  src="https://raw.githubusercontent.com/Chandu639/teresa-campus-connect/main/src/assets/logo.jpg" 
                   alt="Mother Teresa High School Logo" 
                   className="w-full h-full object-contain"
                 />
