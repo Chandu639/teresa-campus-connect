@@ -162,8 +162,9 @@ const Index = () => {
                   Mother Teresa High School
                 </h1>
                 <p className="text-sm text-muted-foreground">
-                  CBSE | Jalahalli, Bengaluru
-                </p>
+  State Board | Jalahalli, Bengaluru
+</p>
+
               </div>
             </div>
 
@@ -229,7 +230,7 @@ const Index = () => {
                 <span className="block text-secondary-light">Education</span>
               </h2>
               <p className="text-xl md:text-2xl mb-8 text-white/90 animate-fade-in delay-300">
-                Nurturing young minds with quality CBSE education, 
+                Nurturing young minds with quality  education, 
                 holistic development, and moral values since establishment.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center animate-scale-in delay-500 pt-4">
