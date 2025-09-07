@@ -6,6 +6,7 @@ import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Textarea } from "@/components/ui/textarea";
 import { useToast } from "@/hooks/use-toast";
+import { logo } from "@/pages/logo.jpg";
 
 import { 
   BookOpen, 
@@ -153,7 +154,7 @@ const Index = () => {
             <div className="logo-container animate-fade-in">
               <div className="logo-image">
   <img
-    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bangaloreeducation.com%2Fschools%2Fschoolprofile.asp%3Fcollid%3Dp1yyrtrvq!!IGI%26det%3D1&psig=AOvVaw1INUrGDTdRXlroLf87hptU&ust=1757326942721000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD9ppS3xo8DFQAAAAAdAAAAABAK"
+    src={ logo }
     alt="Mother Teresa High School Logo"
     className="w-full h-full object-contain"
   />
