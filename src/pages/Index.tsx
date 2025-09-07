@@ -625,7 +625,7 @@ const Index = () => {
               <div className="flex items-center gap-4 mb-6">
                 <div className="w-16 h-16 bg-white/10 rounded-xl p-2">
                   <img 
-                    src="https://mtpscbse.com/wp-content/uploads/2020/03/logo.jpg" 
+                    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bangaloreeducation.com%2Fschools%2Fschoolprofile.asp%3Fcollid%3Dp1yyrtrvq!!IGI%26det%3D1&psig=AOvVaw1INUrGDTdRXlroLf87hptU&ust=1757326942721000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKD9ppS3xo8DFQAAAAAdAAAAABAK" 
                     alt="School Logo" 
                     className="w-full h-full object-contain"
                   />
