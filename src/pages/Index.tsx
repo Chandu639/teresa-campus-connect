@@ -152,7 +152,7 @@ const Index = () => {
             <div className="logo-container animate-fade-in">
               <div className="logo-image">
                 <img 
-                  src="https://www.linkedin.com/posts/gn-nv-dr-hb-v-hmm-kct-72b1aa383_activity-7370372740802899968-wGwY?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAF6I7ZMBcdThs3arsbPqJmzZIrblllwipzs&utm_campaign=copy_linkx"
+                  src="https://www.linkedin.com/posts/gn-nv-dr-hb-v-hmm-kct-72b1aa383_activity-7370372740802899968-wGwY?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAF6I7ZMBcdThs3arsbPqJmzZIrblllwipzs&utm_campaign=copy_link"
                   alt="Mother Teresa High School Logo" 
                   className="w-full h-full object-contain"
                 />
