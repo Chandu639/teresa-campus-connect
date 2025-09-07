@@ -6,6 +6,8 @@ import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Textarea } from "@/components/ui/textarea";
 import { useToast } from "@/hooks/use-toast";
+import logo from '@/assets/logo.jpg';
+
 import { 
   BookOpen, 
   Users, 
@@ -151,11 +153,13 @@ const Index = () => {
             {/* Logo Section with Enhanced Space */}
             <div className="logo-container animate-fade-in">
               <div className="logo-image">
-  <img 
-    src="https://www.linkedin.com/posts/gn-nv-dr-hb-v-hmm-kct-72b1aa383_activity-7370372740802899968-wGwY?utm_source=…"
-    alt="Mother Teresa High School Logo" 
+  <img
+    src={logo}
+    alt="Mother Teresa High School Logo"
     className="w-full h-full object-contain"
   />
+</div>
+
 </div>
 
               <div className="flex flex-col">
