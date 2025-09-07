@@ -273,7 +273,7 @@ const Index = () => {
               </h3>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
                 Mother Teresa High School is managed by Jalahalli Education Society and recognized 
-                by the Government of Karnataka, providing exceptional CBSE education with a focus 
+                by the Government of Karnataka, providing exceptional State board education with a focus 
                 on academic excellence and character development.
               </p>
             </div>
@@ -318,7 +318,7 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <CardDescription className="text-center text-base">
-                    Karnataka State Board affiliated institution with CBSE curriculum, 
+                    Karnataka State Board affiliated institution with State board curriculum, 
                     providing quality English medium education since establishment.
                   </CardDescription>
                 </CardContent>
