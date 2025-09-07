@@ -633,7 +633,7 @@ const Index = () => {
                 </div>
                 <div>
                   <h4 className="text-2xl font-bold text-secondary-light">Mother Teresa High School</h4>
-                  <p className="text-primary-foreground/80">Excellence in CBSE Education</p>
+                  <p className="text-primary-foreground/80">Excellence in State board Education</p>
                 </div>
               </div>
               
@@ -719,7 +719,7 @@ const Index = () => {
                   </div>
                   <p className="text-sm text-primary-foreground/80">
                     Government of Karnataka<br />
-                    CBSE Affiliated Institution
+                    State board Affiliated Institution
                   </p>
                 </div>
               </div>
