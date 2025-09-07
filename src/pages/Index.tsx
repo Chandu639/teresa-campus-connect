@@ -151,12 +151,13 @@ const Index = () => {
             {/* Logo Section with Enhanced Space */}
             <div className="logo-container animate-fade-in">
               <div className="logo-image">
-                <img 
-                  src="https://www.linkedin.com/posts/gn-nv-dr-hb-v-hmm-kct-72b1aa383_activity-7370372740802899968-wGwY?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAF6I7ZMBcdThs3arsbPqJmzZIrblllwipzs&utm_campaign=copy_link"
-                  alt="Mother Teresa High School Logo" 
-                  className="w-full h-full object-contain"
-                />
-              </div>
+  <img 
+    src="https://www.linkedin.com/posts/gn-nv-dr-hb-v-hmm-kct-72b1aa383_activity-7370372740802899968-wGwY?utm_source=…"
+    alt="Mother Teresa High School Logo" 
+    className="w-full h-full object-contain"
+  />
+</div>
+
               <div className="flex flex-col">
                 <h1 className="text-xl md:text-2xl font-bold text-gradient-primary">
                   Mother Teresa High School
